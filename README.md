@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan Bondarev
+- 👋 Hi, I’m Ivan Bondarev.
 - 👀 I’m interested in [Mathematics, Physics, Astronomy, Programming].
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on somethings interesting.
