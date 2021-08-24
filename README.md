@@ -1,8 +1,12 @@
-- 👋 Hello everyone I’m Ivan Bondarev.
-- 👀 I’m interested in [Mathematics, Physics, Astronomy, Programming].
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on somethings interesting.
-- 📫 How to reach me: ivan110kg@gmail.com
+
+<h1>👋 Hello everyone!</h1>
+<hr>
+<h1>About me</h1>
+<p>Name: Ivan Bondarev</p>
+<p>👀 I’m interested in [Mathematics, Physics, Astronomy, Computer Sciense].</p>
+<p>🌱 I’m currently learning Django-rest-framework, JavaScript</p>
+<hr>
+<h1>:wrench: Skills</h1>
 
 <!---
 ivan100kg/ivan100kg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
