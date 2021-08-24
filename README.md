@@ -1,11 +1,11 @@
 
 <h1>👋 Hello everyone!</h1>
-<hr>
+
 <h1>About me</h1>
 <p>Name: Ivan Bondarev</p>
 <p>👀 I’m interested in [Mathematics, Physics, Astronomy, Computer Sciense].</p>
 <p>🌱 I’m currently learning Django-rest-framework, JavaScript</p>
-<hr>
+
 <h1>:wrench: Skills</h1>
 
 <!---
