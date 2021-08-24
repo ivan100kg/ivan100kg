@@ -1,12 +1,19 @@
+<h1>:wave: Hello Everyone!</h1>
+<h2>:man: About me</h2>
+<p>My name is Ivan Bondarev, I entered in programming world for about 7 years ago. I continue learning and want to find a good job!</p>
+<p>I'm interested in [Mathematics, Physics, Astronomy, Computer Sciense].</p>
+<p>I'm currently learning Django/DRF, JavaScript, Math, English, Bootstrap, Docker.</p>
 
-<h1>👋 Hello everyone!</h1>
+<h2>:wrench: Skills</h2>
+<h3>Active skills</h3>
+<p>Python, Django, DRF, HTML, CSS, Bootstrap, Javascript, SQL, Linux, Bash, Vim, Git</p>
+<h3>Other skills</h3>
+<p>C, C++, C#, Unity3d, 3dsMax, NumPy, Pandas, Matplotlib, PyTorch, Arduino, Asyncio/aiohttp, Logging, Unittest, Re, Parsing(requests, bs4, selenium), Telegram-bot</p>
 
-<h1>About me</h1>
-<p>Name: Ivan Bondarev</p>
-<p>👀 I’m interested in [Mathematics, Physics, Astronomy, Computer Sciense].</p>
-<p>🌱 I’m currently learning Django-rest-framework, JavaScript</p>
-
-<h1>:wrench: Skills</h1>
+<h2>:mailbox: Links</h2>
+<a href="https://github.com/ivan100kg">GitHub</a>
+<a href="https://www.facebook.com/profile.php?id=100007209557127">Fcebook</a>
+<a href="https://twitter.com/Ivan100kg">Twitter</a>
 
 <!---
 ivan100kg/ivan100kg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
