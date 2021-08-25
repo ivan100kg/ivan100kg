@@ -1,8 +1,8 @@
 <h1>:wave: Hello Everyone!</h1>
 <h2>:man: About me</h2>
 <p>My name is Ivan Bondarev, I entered in programming world for about 7 years ago. I continue learning and want to find a good job!</p>
-<p>I'm interested in [Mathematics, Physics, Astronomy, Computer Sciense].</p>
-<p>I'm currently learning Django/DRF, JavaScript, Math, English, Bootstrap, Docker.</p>
+<p>I'm interested in <strong>[Mathematics, Physics, Astronomy, Computer Sciense]</strong>.</p>
+<p>I'm currently learning <strong>Django/DRF, JavaScript, Math, English, Bootstrap, Docker</strong>.</p>
 
 <h2>:wrench: Skills</h2>
 <h3>Active skills</h3>
