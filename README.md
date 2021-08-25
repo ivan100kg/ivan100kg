@@ -1,14 +1,18 @@
 <h1>:wave: Hello Everyone!</h1>
 <h2>:man: About me</h2>
-<p>My name is Ivan Bondarev, I entered in programming world for about 7 years ago. I continue learning and want to find a good job!</p>
+<p>Hi I'm Ivan! I love coding, thinking, solving interesting problems.</p>
 <p>I'm interested in <strong>[Mathematics, Physics, Astronomy, Computer Sciense]</strong>.</p>
 <p>I'm currently learning <strong>Django/DRF, JavaScript, Math, English, Bootstrap, Docker</strong>.</p>
 
 <h2>:wrench: Skills</h2>
-<h3>Active skills</h3>
-<p>Python, Django, DRF, HTML, CSS, Bootstrap, Javascript, SQL, Linux, Bash, Vim, Git</p>
-<h3>Other skills</h3>
-<p>C, C++, C#, Unity3d, 3dsMax, NumPy, Pandas, Matplotlib, PyTorch, Arduino, Asyncio/aiohttp, Logging, Unittest, Re, Parsing(requests, bs4, selenium), Telegram-bot</p>
+<p><strong>Languages: </strong>Python, C++, JavaScript+(HTML/CSS), SQL(MySQL)</p>
+<p><strong>Frameworks: </strong>Django, DRF, React(my next target)</p>
+<p><strong>Libs: </strong>re, logging, unittest, json, numpy, pandas, asyncio, aiohttp, aiogramm, requests, bs4, selenium ...</p>
+<p><strong>Science: </strong>Math, Physics, Electrical Engineering, Radio Electronics, Astronomy</p>
+<p><strong>Areas: </strong>Web Development, Data Science, Machine/Deep Learning, Game Development, Network Systems</p>
+<p><strong>OS: </strong>Linux, Windows</p>
+<p><strong>IDE/Text Editors: </strong>PyCharm, VSCode, Vim, Sublime Text</p>
+               
 
 <h2>:mailbox: Links</h2>
 <a href="https://github.com/ivan100kg">GitHub</a>
