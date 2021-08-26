@@ -5,7 +5,7 @@
 <p>I'm currently learning <strong>Django/DRF, JavaScript, Math, English, Bootstrap, Docker</strong>.</p>
 
 <h2>:wrench: Skills</h2>
-<p><strong>Languages: </strong>Python, C++, JavaScript+(HTML/CSS), SQL(MySQL)</p>
+<p><strong>Languages: </strong>Python, C++, JavaScript(+HTML/CSS), SQL(MySQL)</p>
 <p><strong>Frameworks: </strong>Django, DRF, React(my next target)</p>
 <p><strong>Libs: </strong>re, logging, unittest, json, numpy, pandas, asyncio, aiohttp, aiogramm, requests, bs4, selenium ...</p>
 <p><strong>Science: </strong>Math, Physics, Electrical Engineering, Radio Electronics, Astronomy</p>
