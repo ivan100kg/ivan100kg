@@ -13,6 +13,7 @@
 <p><strong>Science: </strong>Math, Physics, Electrical Engineering, Radio Electronics, Astronomy</p>
 <p><strong>Areas: </strong>Web Development, Data Science, Machine/Deep Learning, Game Development</p>
 <p><strong>OS: </strong>Linux, Windows</p>
+<p><strong>Embedded devices: </strong>Arduino, AVR, STM32</p>
 <p><strong>IDE/Text Editors: </strong>PyCharm, VSCode, Vim, Sublime Text, Jupyter</p>
 <p><strong>Learning now: </strong>English, Django/DRF, JavaScript, Tests, Docker</p>
                
