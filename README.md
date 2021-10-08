@@ -20,5 +20,5 @@
 
 <h2>:mailbox: Links</h2>
 <a href="https://github.com/ivan100kg">GitHub</a>
-<a href="https://facebook.com/profile.php?id=100007209557127">Fcebook</a>
+<a href="https://facebook.com/profile.php?id=100007209557127">Facebook</a>
 <a href="https://twitter.com/Ivan100kg">Twitter</a>
