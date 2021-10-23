@@ -2,7 +2,8 @@
 <h2>:man: About me</h2>
 <p>I'm Ivan.<br> I've always liked computers!<br> I started programming about 7 years ago.<br> I learned many languages and technologies.
   <br> When I was learning something I'd already considered the next aim. 
-  <br> So step by step I've gotten experience.<br> And now I want to get a new interesting job and to use my skills for our common prosperity! :)
+  <br> So step by step I've gotten experience.<br>
+  And now I want to get a new interesting job and use my skills. 
 </p>
 
 
