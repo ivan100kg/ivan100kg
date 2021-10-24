@@ -9,15 +9,22 @@ So step by step I've gotten experience.<br>
 And now `I want to get a new interesting job` and use my skills. 
 
 ## :wrench: Skills
-<p><strong>Languages: </strong>Python, C/C++, C#, JavaScript, SQL, Bash</p>
-<p><strong>Web: </strong>HTML, CSS/SASS/SCSS, Django, DRF, React(my next target)</p>
-<p><strong>Libs: </strong>re, logging, unittest, json, numpy, pandas, asyncio, aiohttp, aiogramm, requests, bs4, selenium ...</p>
-<p><strong>Science: </strong>Math, Physics, Electrical Engineering, Radio Electronics, Astronomy</p>
-<p><strong>Areas: </strong>Web Development, Data Science, Machine/Deep Learning, Game Development</p>
-<p><strong>OS: </strong>Linux, Windows</p>
-<p><strong>Embedded devices: </strong>Arduino, AVR, STM32</p>
-<p><strong>IDE/Text Editors: </strong>PyCharm, VSCode, Vim, Sublime Text, Jupyter</p>
-<p><strong>Learning now: </strong>English, Django/DRF, JavaScript, Tests, Docker</p>
+Area | Skills
+-----| ------
+**Primary**|**Python**, **SQL**, **linux**, **Django**, **DRF**, **Git**
+Languages|C/C++, C#, JavaScript
+Web|HTML, CSS/SASS/SCSS
+Data Science|numpy, pandas, matplotlib
+Machine/Deep Learning|pytorch, keras
+Parsing|requests, bs4, selenium
+Asynchronous|asyncio, aiohttp, aiogramm
+Test|unittest
+Useful libraries|re, logging
+Gamedev|Unity3d
+IDE/Text Editors|PyCharm, VSCode, Vim, Jupyter
+OS|Linux, Windows>
+Embedded|Arduino, AVR, STM32, Proteus
+Learning now|English, Docker
                
 ## :mailbox: Links
 <a href="https://github.com/ivan100kg">GitHub</a>
