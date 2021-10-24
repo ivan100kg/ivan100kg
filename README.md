@@ -27,5 +27,5 @@ Learning now|English, Docker
                
 ## :mailbox: Links
 [Github](https://github.com/ivan100kg)
-[Facebook](https://facebook.com/profile.php?id=100007209557127")
-[Twitter](https://twitter.com/Ivan100kg")
+[Facebook](https://facebook.com/profile.php?id=100007209557127)
+[Twitter](https://twitter.com/Ivan100kg)
