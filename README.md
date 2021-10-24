@@ -11,7 +11,7 @@ And now `I want to get a new interesting job` and use my skills.
 ## :wrench: Skills
 Area | Skills
 -----| ------
-**Primary**|**Python**, **SQL**, **linux**, **Django**, **DRF**, **Git**
+**Primary**|**Python3**, **SQL**, **linux**, **Django**, **DRF**, **Git**
 Languages|C/C++, C#, JavaScript
 Web|HTML, CSS/SASS/SCSS
 Data Science|numpy, pandas, matplotlib
@@ -19,14 +19,13 @@ Machine/Deep Learning|pytorch, keras
 Parsing|requests, bs4, selenium
 Asynchronous|asyncio, aiohttp, aiogramm
 Test|unittest
-Useful libraries|re, logging
 Gamedev|Unity3d
 IDE/Text Editors|PyCharm, VSCode, Vim, Jupyter
-OS|Linux, Windows>
+OS|Linux, Windows
 Embedded|Arduino, AVR, STM32, Proteus
 Learning now|English, Docker
                
 ## :mailbox: Links
-<a href="https://github.com/ivan100kg">GitHub</a>
-<a href="https://facebook.com/profile.php?id=100007209557127">Facebook</a>
-<a href="https://twitter.com/Ivan100kg">Twitter</a>
+[Github](https://github.com/ivan100kg)
+[Facebook](https://facebook.com/profile.php?id=100007209557127")
+[Twitter](https://twitter.com/Ivan100kg")
