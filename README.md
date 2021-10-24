@@ -9,8 +9,8 @@ So step by step I've gotten experience.<br>
 And now `I want to get a new interesting job` and use my skills. 
 
 ## :wrench: Skills
-Area | Skills
------| ------
+Areas | Skills
+------|-------
 **Primary**|**Python3**, **SQL**, **linux**, **Django**, **DRF**, **Git**
 Languages|C/C++, C#, JavaScript
 Web|HTML, CSS/SASS/SCSS
