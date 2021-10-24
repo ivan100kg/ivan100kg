@@ -12,7 +12,7 @@ And now `I want to get a new interesting job` and use my skills.
 Areas | Skills
 ------|-------
 **Primary**|**Python3**, **SQL**, **linux**, **Django**, **DRF**, **Git**
-Languages|C/C++, C#, JavaScript
+Languages|C/C++, C#, JavaScript, Bash
 Web|HTML, CSS/SASS/SCSS
 Data Science|numpy, pandas, matplotlib
 Machine/Deep Learning|pytorch, keras
@@ -26,6 +26,7 @@ Embedded|Arduino, AVR, STM32, Proteus
 Learning now|English, Docker
                
 ## :mailbox: Links
+<!-- [![name](link to image on GH)](link to your URL) -->
 [Github](https://github.com/ivan100kg)
 [Facebook](https://facebook.com/profile.php?id=100007209557127)
 [Twitter](https://twitter.com/Ivan100kg)
