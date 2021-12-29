@@ -23,7 +23,7 @@ Gamedev|Unity3d
 IDE/Text Editors|PyCharm, VSCode, Vim, Jupyter
 OS|Linux, Windows
 Embedded|Arduino, AVR, STM32, Proteus
-Learning now|English
+Learning now|English, Mathematics
                
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
