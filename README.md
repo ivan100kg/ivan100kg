@@ -1,29 +1,12 @@
-# :wave: Hello Everyone!
-## :man: About me
-I'm Ivan.<br> 
-I've always liked `computers`!<br> 
-I started programming about `7 years` ago.<br> 
-I learned many languages and technologies.<br> 
-When I was learning something I'd already considered the next aim.<br> 
-So step by step I've gotten experience.<br>
-And now `I want to get a new interesting job` and use my skills. 
 
+## :man: About me
+Name: `Ivan`<br> 
+Experience : `8 years`<br>
+Specialization: `Java-developer`<br>
 ## :wrench: Skills
 Areas | Skills
 ------|-------
-**Primary**|**Python3**, **SQL**, **linux**, **Django**, **DRF**, **Git**
-Languages|C/C++, C#, JavaScript, Bash
-Web|HTML, CSS/SASS/SCSS
-Data Science|numpy, pandas, matplotlib
-Machine/Deep Learning|pytorch, keras
-Parsing|requests, bs4, selenium
-Asynchronous|asyncio, aiohttp, aiogramm
-Test|unittest
-Gamedev|Unity3d
-IDE/Text Editors|PyCharm, VSCode, Vim, Jupyter
-OS|Linux, Windows
-Embedded|Arduino, AVR, STM32, Proteus
-Learning now|English, Mathematics
+
                
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
