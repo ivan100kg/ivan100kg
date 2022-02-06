@@ -6,7 +6,9 @@ Specialization: `Java-developer`<br>
 ## :wrench: Skills
 Areas | Skills
 ------|-------
-
+Programming Languages|Java, Python, JavaScript
+Databases|SQL, PostgreSQL, MySQL
+Web|OSI model, HTML, CSS
                
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
