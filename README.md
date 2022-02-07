@@ -1,6 +1,6 @@
 
 ## :man: About me
-Name: `Ivan`<br> 
+Name: `Ivan Bondarev`<br> 
 Experience : `8 years`<br>
 Specialization: `Java-developer`<br>
                
