@@ -1,8 +1,6 @@
 
-## :man: About me
-Name: `Ivan Bondarev`<br> 
-Specialization: `Java-developer`<br>
-               
+# :man: Hi there!
+              
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
 <!-- /assets/images/electrocat.png -->
