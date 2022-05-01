@@ -1,5 +1,6 @@
 
 # :man: Hi there!
+Welcome to my page my friends!
               
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
