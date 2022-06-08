@@ -1,6 +1,6 @@
 
 # 👋: Hi there!
-Welcome to my page!
+Welcome to my profile!
               
 ## :mailbox: Links
 <!-- [![name](link to image on GH)](link to your URL) -->
