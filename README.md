@@ -7,5 +7,5 @@ Welcome to my profile!
 <!-- /assets/images/electrocat.png -->
 [![Telegram](images/tg.png)](https://t.me/ivan100kg)
 [![Github](images/gh.png)](https://ivan100kg.github.io/)
-[![Twitter](images/tw.png)](https://twitter.com/Ivan100kg)
 [![Facebook](images/fb.png)](https://facebook.com/profile.php?id=100007209557127)
+[![Twitter](images/tw.png)](https://twitter.com/Ivan100kg)
